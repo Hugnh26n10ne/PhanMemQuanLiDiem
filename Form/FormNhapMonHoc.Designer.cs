@@ -224,6 +224,7 @@
             this.tbx_TimKiem.Name = "tbx_TimKiem";
             this.tbx_TimKiem.Size = new System.Drawing.Size(507, 38);
             this.tbx_TimKiem.TabIndex = 23;
+            this.tbx_TimKiem.Text = "đây là 123";
             // 
             // label1
             // 
